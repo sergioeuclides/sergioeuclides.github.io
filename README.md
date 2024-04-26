@@ -5,7 +5,7 @@
 > - O objetivo é ser um convite ao portfólio pessoal, divulgando trabalhos e novas skills adquiridas.
 > 
 
-## Como portfólio prévio?
+## Portfólio prévio.
 
 > - Através do [link](https://www.gitshowcase.com/sergioeuclides)
 
