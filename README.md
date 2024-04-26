@@ -1,13 +1,14 @@
-# Projeto Portfolio
+# Projeto Landing Page
 
 ## Do que se trata?
 
-> - Repositório de portfólio pessoal, divulgando trabalhos em, linguagens, e frameworks que domino conhecimento através de cursos adquiridos.
+> - O objetivo é ser um convite ao portfólio pessoal, divulgando trabalhos e novas skills adquiridas.
 > 
 
-## Como conhecer?
+## Como portfólio prévio?
 
 > - Através do [link](https://www.gitshowcase.com/sergioeuclides)
+
 ## Contato:
 
  - :coffee:[LinkedIn](https://www.linkedin.com/in/sergioeuclides/)
